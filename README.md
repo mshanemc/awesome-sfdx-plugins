@@ -7,7 +7,7 @@ In the spirit of `awesome-[whatever]`, it's a public directory of open source sf
 Fork, PR, and add your plugins to share with the world
 Also feel free to reorganize these as the list grows
 
-## Official plugins/source from Salesforce
+## Official plugins/modules from Salesforce
 
 - [falcon](https://github.com/sfdx-isv/sfdx-falcon) template/framework for ISVs
 - [sfdx-core](https://github.com/forcedotcom/sfdx-core) auth, connections, and client-side tools for your plugins
