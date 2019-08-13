@@ -20,7 +20,7 @@ Also feel free to reorganize these as the list grows
 
 - [muenzpraeger/sfdx-plugin](https://github.com/muenzpraeger/sfdx-plugin) (Rene Winkelmeyer, [@muenzpraeger](https://github.com/muenzpraeger)) sets api version, deletes Aura empty boilerplate files, and turns swagger defts into Apex classes
 
-- [sfdx-waw-plugin](https://github.com/wadewegner/sfdx-waw-plugin) (Wade Wegner, [@wadewegner](https://github.com/wadewegner)) shortcuts for connected apps, codeclean, packaging, and moe
+- [sfdx-waw-plugin](https://github.com/wadewegner/sfdx-waw-plugin) (Wade Wegner, [@wadewegner](https://github.com/wadewegner)) shortcuts for connected apps, codeclean, packaging, and more
 
 - [mo-dx-plugin](https://github.com/msrivastav13/mo-dx-plugin) (Mohith Shrivastava, [@msrivastav13](https://github.com/msrivastav13)) retrieving and deploying via tooling api
 
