@@ -18,25 +18,44 @@ Also feel free to reorganize these as the list grows
 
 Shared by people out of love, for the community. No guarantees.
 
-- [shane-sfdx-plugins](https://github.com/mshanemc/shane-sfdx-plugins) (Shane McLaughlin, [@mshanemc](https://github.com/mshanemc)) Too many commands to even attempt to describe--just go read the README.
+- [shane-sfdx-plugins](https://github.com/mshanemc/shane-sfdx-plugins) (Shane McLaughlin, [@mshanemc](https://github.com/mshanemc))
 
-- [muenzpraeger/sfdx-plugin](https://github.com/muenzpraeger/sfdx-plugin) (Rene Winkelmeyer, [@muenzpraeger](https://github.com/muenzpraeger)) sets api version, deletes Aura empty boilerplate files, and turns swagger defts into Apex classes
+  Too many commands to even attempt to describe--just go read the README.
 
-- [sfdx-waw-plugin](https://github.com/wadewegner/sfdx-waw-plugin) (Wade Wegner, [@wadewegner](https://github.com/wadewegner)) shortcuts for connected apps, codeclean, packaging, and more
+- [muenzpraeger/sfdx-plugin](https://github.com/muenzpraeger/sfdx-plugin) (Rene Winkelmeyer, [@muenzpraeger](https://github.com/muenzpraeger))
 
-- [mo-dx-plugin](https://github.com/msrivastav13/mo-dx-plugin) (Mohith Shrivastava, [@msrivastav13](https://github.com/msrivastav13)) retrieving and deploying via tooling api
+  Sets api version, deletes Aura empty boilerplate files, and turns swagger defts into Apex classes
 
-- [sfdx-cmdt-plugin](https://github.com/shunkosa/sfdx-cmdt-plugin) (Shun Kosaka, [@shunkosa](https://github.com/shunkosa)) convert csv to custom metadata
+- [sfdx-waw-plugin](https://github.com/wadewegner/sfdx-waw-plugin) (Wade Wegner, [@wadewegner](https://github.com/wadewegner))
 
-- [texi-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon)) crawls package dependencies and automatically installs the prerequisites | update your user fields
+  Shortcuts for connected apps, codeclean, packaging, and more
 
-- [ETCopyData](https://github.com/eltoroit/ETCopyData) ( Andres Perez [@eltoroit](https://github.com/eltoroit)) extract and populate data to sandboxes and scratch orgs
+- [mo-dx-plugin](https://github.com/msrivastav13/mo-dx-plugin) (Mohith Shrivastava, [@msrivastav13](https://github.com/msrivastav13))
 
-- [sfdx-browserforce-plugin](https://github.com/amtrack/sfdx-browserforce-plugin) (Matthias Rolke [@amtrack](https://github.com/amtrack)) configurable tool for browser-driving through the setup menu to get at all those non-accessible features
+  Retrieving and deploying via tooling api
+
+- [sfdx-cmdt-plugin](https://github.com/shunkosa/sfdx-cmdt-plugin) (Shun Kosaka, [@shunkosa](https://github.com/shunkosa))
+
+  Convert csv to custom metadata
+
+- [texi-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon))
+
+  Crawls package dependencies and automatically installs the prerequisites | update your user fields
+
+- [ETCopyData](https://github.com/eltoroit/ETCopyData) ( Andres Perez [@eltoroit](https://github.com/eltoroit))
+
+  Extract and populate data to sandboxes and scratch orgs
+
+- [sfdx-browserforce-plugin](https://github.com/amtrack/sfdx-browserforce-plugin) (Matthias Rolke [@amtrack](https://github.com/amtrack))
+
+  Configurable tool for browser-driving through the setup menu to get at all those non-accessible features
 
 ## Documentation
 
-- [Oclif](https://oclif.io/) A few layers down the stack, and for when you want to build CLI for other things that may not be sfdx-specific
+- [Oclif](https://oclif.io/)
+
+  A few layers down the stack, and for when you want to build CLI for other things that may not be sfdx-specific
+
 - [Plugin developer guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_plugins.meta/sfdx_cli_plugins/cli_plugins_architecture_sf_cli.htm)
 
 ## Issues
