@@ -16,6 +16,8 @@ Also feel free to reorganize these as the list grows
 
 ## Community supported plugins
 
+Shared by people out of love, for the community. No guarantees.
+
 - [shane-sfdx-plugins](https://github.com/mshanemc/shane-sfdx-plugins) (Shane McLaughlin, [@mshanemc](https://github.com/mshanemc)) Too many commands to even attempt to describe--just go read the README.
 
 - [muenzpraeger/sfdx-plugin](https://github.com/muenzpraeger/sfdx-plugin) (Rene Winkelmeyer, [@muenzpraeger](https://github.com/muenzpraeger)) sets api version, deletes Aura empty boilerplate files, and turns swagger defts into Apex classes
