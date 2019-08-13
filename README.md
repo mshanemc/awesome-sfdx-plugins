@@ -24,9 +24,9 @@ Also feel free to reorganize these as the list grows
 
 - [mo-dx-plugin](https://github.com/msrivastav13/mo-dx-plugin) (Mohith Shrivastava, [@msrivastav13](https://github.com/msrivastav13)) retrieving and deploying via tooling api
 
-- [sfdx-cmdt-plugin](https://github.com/shunkosa/sfdx-cmdt-plugin) (Shun Kosaka, @[shunkosa](https://github.com/shunkosa)) convert csv to custom metadata
+- [sfdx-cmdt-plugin](https://github.com/shunkosa/sfdx-cmdt-plugin) (Shun Kosaka, [@shunkosa](https://github.com/shunkosa)) convert csv to custom metadata
 
-- [texi-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially FabienTaillon [@FabienTaillon](https://github.com/FabienTaillon)) crawls package dependencies and automatically installs the prerequisites | update your user fields
+- [texi-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon)) crawls package dependencies and automatically installs the prerequisites | update your user fields
 
 - [ETCopyData](https://github.com/eltoroit/ETCopyData) ( Andres Perez [@eltoroit](https://github.com/eltoroit)) extract and populate data to sandboxes and scratch orgs
 
