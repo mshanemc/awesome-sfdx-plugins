@@ -56,7 +56,7 @@ Shared by people out of love, for the community. No guarantees.
 
 - [sfdx-devhub-pool](https://github.com/stomita/sfdx-devhub-pool) (Shinichi Tomita [@stomita](https://github.com/stomita))
 
-  Use multiple DevHub orgs as a pool to generate scratch orgs without hitting daily limit
+  Generate scratch orgs without hitting daily limit by using multiple DevHub orgs as a pool 
 
 ## Documentation
 
