@@ -50,6 +50,14 @@ Shared by people out of love, for the community. No guarantees.
 
   Configurable tool for browser-driving through the setup menu to get at all those non-accessible features
 
+- [sfdx-migration-automatic](https://github.com/stomita/sfdx-migration-automatic) (Shinichi Tomita [@stomita](https://github.com/stomita))
+
+  Dump/load record data to/from CSV files to easily migrate data between orgs
+
+- [sfdx-devhub-pool](https://github.com/stomita/sfdx-devhub-pool) (Shinichi Tomita [@stomita](https://github.com/stomita))
+
+  Use multiple DevHub orgs as a pool to generate scratch orgs without hitting daily limit
+
 ## Documentation
 
 - [Oclif](https://oclif.io/)
