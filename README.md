@@ -32,7 +32,7 @@ Shared by people out of love, for the community. No guarantees.
 
 - [mo-dx-plugin](https://github.com/msrivastav13/mo-dx-plugin) (Mohith Shrivastava, [@msrivastav13](https://github.com/msrivastav13))
 
-  Retrieving and deploying via tooling api
+  Retrieving and deploying via tooling api, convert package source to Salesforcedx source all in one command, rename CRUD based metadata
 
 - [sfdx-cmdt-plugin](https://github.com/shunkosa/sfdx-cmdt-plugin) (Shun Kosaka, [@shunkosa](https://github.com/shunkosa))
 
@@ -57,6 +57,10 @@ Shared by people out of love, for the community. No guarantees.
 - [sfdx-devhub-pool](https://github.com/stomita/sfdx-devhub-pool) (Shinichi Tomita [@stomita](https://github.com/stomita))
 
   Generate scratch orgs without hitting daily limit by using multiple DevHub orgs as a pool 
+  
+- [sfpowerkit](https://github.com/Accenture/sfpowerkit) (Accenture)
+
+  Too many powerful things.Read the documentation on the git repo.
 
 ## Documentation
 
