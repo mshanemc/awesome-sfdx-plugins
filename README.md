@@ -38,7 +38,7 @@ Shared by people out of love, for the community. No guarantees.
 
   Convert csv to custom metadata
 
-- [texi-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon))
+- [texei-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon))
 
   Crawls package dependencies and automatically installs the prerequisites | update your user fields
 
@@ -61,7 +61,11 @@ Shared by people out of love, for the community. No guarantees.
 - [sfpowerkit](https://github.com/Accenture/sfpowerkit) (Accenture)
 
   Too many powerful things.Read the documentation on the git repo.
+ 
+- [soqlx-opener](https://github.com/ImJohnMDaniel/soqlx-opener) (John M. Daniel [@ImJohnMDaniel](https://github.com/ImJohnMDaniel))
 
+  For those SalesforceDevs that love [@Superfell](https://github.com/Superfell)'s [#SoqlXplorer](https://github.com/superfell/SoqlX), this plugin brings the power of SoqlX to DX Scratch orgs.
+ 
 ## Documentation
 
 - [Oclif](https://oclif.io/)
