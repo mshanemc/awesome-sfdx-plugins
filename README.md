@@ -69,6 +69,10 @@ Shared by people out of love, for the community. No guarantees.
 - [sfdx-git-packager](https://github.com/ChuckJonas/sfdx-git-packager) (Charles Jonas [@ChuckJonas](https://github.com/ChuckJonas))
 
   Generates Metadata packages from differences between git refs.
+  
+- [JSON-Bourne-SFDX](https://github.com/realestate-com-au/json-bourne-sfdx-cli) (REA Group [@realestate-com-au](https://github.com/realestate-com-au))
+
+  Source control your org reference data, and treat it as metadata (make changes in scratch org, commit the changes to source control and "deploy" through CI).
  
 ## Documentation
 
