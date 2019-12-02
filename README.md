@@ -32,13 +32,13 @@ Shared by people out of love, for the community. No guarantees.
 
 - [mo-dx-plugin](https://github.com/msrivastav13/mo-dx-plugin) (Mohith Shrivastava, [@msrivastav13](https://github.com/msrivastav13))
 
-  Retrieving and deploying via tooling api
+  Retrieving and deploying via tooling api, convert package source to Salesforcedx source all in one command, rename CRUD based metadata
 
 - [sfdx-cmdt-plugin](https://github.com/shunkosa/sfdx-cmdt-plugin) (Shun Kosaka, [@shunkosa](https://github.com/shunkosa))
 
   Convert csv to custom metadata
 
-- [texi-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon))
+- [texei-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon))
 
   Crawls package dependencies and automatically installs the prerequisites | update your user fields
 
@@ -49,6 +49,30 @@ Shared by people out of love, for the community. No guarantees.
 - [sfdx-browserforce-plugin](https://github.com/amtrack/sfdx-browserforce-plugin) (Matthias Rolke [@amtrack](https://github.com/amtrack))
 
   Configurable tool for browser-driving through the setup menu to get at all those non-accessible features
+
+- [sfdx-migration-automatic](https://github.com/stomita/sfdx-migration-automatic) (Shinichi Tomita [@stomita](https://github.com/stomita))
+
+  Dump/load record data to/from CSV files to easily migrate data between orgs
+
+- [sfdx-devhub-pool](https://github.com/stomita/sfdx-devhub-pool) (Shinichi Tomita [@stomita](https://github.com/stomita))
+
+  Generate scratch orgs without hitting daily limit by using multiple DevHub orgs as a pool
+
+- [sfpowerkit](https://github.com/Accenture/sfpowerkit) (Accenture)
+
+  Too many powerful things.Read the documentation on the git repo.
+
+- [soqlx-opener](https://github.com/ImJohnMDaniel/soqlx-opener) (John M. Daniel [@ImJohnMDaniel](https://github.com/ImJohnMDaniel))
+
+  For those SalesforceDevs that love [@Superfell](https://github.com/Superfell)'s [#SoqlXplorer](https://github.com/superfell/SoqlX), this plugin brings the power of SoqlX to DX Scratch orgs.
+
+- [sfdx-git-packager](https://github.com/ChuckJonas/sfdx-git-packager) (Charles Jonas [@ChuckJonas](https://github.com/ChuckJonas))
+
+  Generates Metadata packages from differences between git refs.
+
+- [JSON-Bourne-SFDX](https://github.com/realestate-com-au/json-bourne-sfdx-cli) (REA Group [@realestate-com-au](https://github.com/realestate-com-au))
+
+  Source control your org reference data, and treat it as metadata (make changes in scratch org, commit the changes to source control and "deploy" through CI).
 
 ## Not plugins, but useful
 
