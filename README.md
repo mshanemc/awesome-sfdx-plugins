@@ -50,6 +50,16 @@ Shared by people out of love, for the community. No guarantees.
 
   Configurable tool for browser-driving through the setup menu to get at all those non-accessible features
 
+## Not plugins, but useful
+
+- [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
+
+  interactive generators for projects and scratch org features/settings
+
+- [yo-sfdx-commands-autocomplete](https://github.com/vyuvalv/yo-sfdx-commands-autocomplete) (Yuval Vardi) [](https://github.com/vyuvalv)
+
+  run commands interactively (autocomplete for sfdx commands and flags)
+
 ## Documentation
 
 - [Oclif](https://oclif.io/)
