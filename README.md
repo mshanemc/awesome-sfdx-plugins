@@ -13,6 +13,7 @@ Also feel free to reorganize these as the list grows
 - [sfdx-core](https://github.com/forcedotcom/sfdx-core) auth, connections, and client-side tools for your plugins
 - [sfdx-plugin-generate](https://github.com/forcedotcom/sfdx-plugin-generate) sfdx-specific version of the oclif generate
 - [sfdx-command](https://github.com/forcedotcom/cli-packages) the thing we're all extending
+- [isvte](https://github.com/forcedotcom/isvte-sfdx-plugin) tools for ISVs from Salesforce's [ISV Technical Evangelism](https://medium.com/inside-the-salesforce-ecosystem/build-better-apps-for-your-customers-with-this-new-dx-plug-in-4877fa0fc305) team
 
 ## Community supported plugins
 
@@ -74,9 +75,9 @@ Shared by people out of love, for the community. No guarantees.
 
   Source control your org reference data, and treat it as metadata (make changes in scratch org, commit the changes to source control and "deploy" through CI).
 
- - [SFDX Essentials](https://github.com/nvuillam/sfdx-essentials) (Nicolas Vuillamy & contributors [@nvuillam](https://github.com/nvuillam))
- 
-   Filter metadata folders according to a package.xml, generate automatically permission sets , check the consistency between a SFDX project sources and related package.xml file(s), change package dependencies versions and apiVersion, reorder package.xml file content, migrate SFDX sources from an object model to a new objects model, filter metadatas XML before deployment.
+- [SFDX Essentials](https://github.com/nvuillam/sfdx-essentials) (Nicolas Vuillamy & contributors [@nvuillam](https://github.com/nvuillam))
+
+  Filter metadata folders according to a package.xml, generate automatically permission sets , check the consistency between a SFDX project sources and related package.xml file(s), change package dependencies versions and apiVersion, reorder package.xml file content, migrate SFDX sources from an object model to a new objects model, filter metadatas XML before deployment.
 
 ## Not plugins, but useful
 
