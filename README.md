@@ -59,6 +59,10 @@ Shared by people out of love, for the community. No guarantees.
 
   Generate scratch orgs without hitting daily limit by using multiple DevHub orgs as a pool
 
+- [sfdx-toolbox-package-utils](https://github.com/ImJohnMDaniel/sfdx-toolbox-package-utils) (John M. Daniel [@ImJohnMDaniel](https://github.com/ImJohnMDaniel))
+
+  Plugin devoted to better managing second generation package dependencies.  
+
 - [sfpowerkit](https://github.com/Accenture/sfpowerkit) (Accenture)
 
   Too many powerful things.Read the documentation on the git repo.
