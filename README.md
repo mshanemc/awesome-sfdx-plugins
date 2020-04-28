@@ -41,7 +41,7 @@ Shared by people out of love, for the community. No guarantees.
 
 - [texei-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon))
 
-  Crawls package dependencies and automatically installs the prerequisites | update your user fields
+  Crawls package dependencies and automatically installs the prerequisites | update your user fields | enables SharedActivities in scratch orgs | and more
 
 - [ETCopyData](https://github.com/eltoroit/ETCopyData) ( Andres Perez [@eltoroit](https://github.com/eltoroit))
 
@@ -82,6 +82,10 @@ Shared by people out of love, for the community. No guarantees.
 - [SFDX Essentials](https://github.com/nvuillam/sfdx-essentials) (Nicolas Vuillamy & contributors [@nvuillam](https://github.com/nvuillam))
 
   Filter metadata folders according to a package.xml, generate automatically permission sets , check the consistency between a SFDX project sources and related package.xml file(s), change package dependencies versions and apiVersion, reorder package.xml file content, migrate SFDX sources from an object model to a new objects model, filter metadatas XML before deployment.
+
+- [Flowdoc] (https://github.com/shunkosa/sfdx-flowdoc-plugin) (Shun Kosaka [@shunkosa] (https://github.com/shunkosa))
+
+  Still in alpha, but very promising approach to create documentation from your Flows as PDF! 
 
 ## Not plugins, but useful
 
