@@ -83,9 +83,9 @@ Shared by people out of love, for the community. No guarantees.
 
   Filter metadata folders according to a package.xml, generate automatically permission sets , check the consistency between a SFDX project sources and related package.xml file(s), change package dependencies versions and apiVersion, reorder package.xml file content, migrate SFDX sources from an object model to a new objects model, filter metadatas XML before deployment.
 
-- [Flowdoc] (https://github.com/shunkosa/sfdx-flowdoc-plugin) (Shun Kosaka [@shunkosa] (https://github.com/shunkosa))
+- [Flowdoc](https://github.com/shunkosa/sfdx-flowdoc-plugin) (Shun Kosaka [@shunkosa](https://github.com/shunkosa))
 
-  Still in alpha, but very promising approach to create documentation from your Flows as PDF! 
+  Still in alpha, but very promising approach to create documentation from your Flows as PDF, Word and JSON! 
 
 ## Not plugins, but useful
 
