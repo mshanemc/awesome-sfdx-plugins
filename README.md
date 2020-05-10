@@ -87,7 +87,7 @@ Shared by people out of love, for the community. No guarantees.
 
   Still in alpha, but very promising approach to create documentation from your Flows as PDF! 
 
-- [sfdx-valkyrie](https://github.com/jonathan/sfdx-valkyrie) (Jonathan Wiesel [@jonathanwiesel](https://github.com/jonathanwiesel))
+- [sfdx-valkyrie](https://github.com/jonathanwiesel/sfdx-valkyrie) (Jonathan Wiesel [@jonathanwiesel](https://github.com/jonathanwiesel))
 
 Detect and report on lack of implementation of the bypassing pattern.
 
