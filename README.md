@@ -14,6 +14,11 @@ Also feel free to reorganize these as the list grows
 - [sfdx-plugin-generate](https://github.com/forcedotcom/sfdx-plugin-generate) sfdx-specific version of the oclif generate
 - [sfdx-command](https://github.com/forcedotcom/cli-packages) the thing we're all extending
 - [isvte](https://github.com/forcedotcom/isvte-sfdx-plugin) tools for ISVs from Salesforce's [ISV Technical Evangelism](https://medium.com/inside-the-salesforce-ecosystem/build-better-apps-for-your-customers-with-this-new-dx-plug-in-4877fa0fc305) team
+- [sfdx-scanner](https://github.com/forcedotcom/sfdx-scanner) runs quality and security checks (PMD) - does not replace Checkmarx for Partners
+- [sfdmu](https://github.com/forcedotcom/SFDX-Data-Move-Utility) Salesforce Data Move Utility - plugin and GUI
+- [sfdx-plugin-lwc-test](https://github.com/salesforce/sfdx-plugin-lwc-test) Helpful for setting up Jest Tests
+- [@salesforce/analytics](https://sfdc.co/adx_cli_help) commands for working with Salesforce Analytics apis
+- [dependency](https://github.com/forcedotcom/dependencies-cli) helps you leverage Dependency API
 
 ## Community supported plugins
 
@@ -85,11 +90,19 @@ Shared by people out of love, for the community. No guarantees.
 
 - [Flowdoc](https://github.com/shunkosa/sfdx-flowdoc-plugin) (Shun Kosaka [@shunkosa](https://github.com/shunkosa))
 
-  Still in alpha, but very promising approach to create documentation from your Flows as PDF, Word and JSON! 
+  Still in alpha, but very promising approach to create documentation from your Flows as PDF, Word (docx) and JSON! 
 
 - [sfdx-valkyrie](https://github.com/jonathanwiesel/sfdx-valkyrie) (Jonathan Wiesel [@jonathanwiesel](https://github.com/jonathanwiesel))
 
-Detect and report on lack of implementation of the bypassing pattern.
+  Detect and report on lack of implementation of the bypassing pattern.
+
+- [adp](https://github.com/americanexpress/sfdx-cli-plugin) (American Express)
+  
+  Various devops tools (e.g. to login into an org), run jars (includes talend jobs) 
+
+- [jayree](https://github.com/jayree/sfdx-jayree-plugin) 
+
+  Deploys changesets, updates state and country picklists and other helpful time-savers. 
 
 ## Not plugins, but useful
 
