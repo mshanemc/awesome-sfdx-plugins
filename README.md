@@ -90,15 +90,19 @@ Shared by people out of love, for the community. No guarantees.
 
 - [Flowdoc](https://github.com/shunkosa/sfdx-flowdoc-plugin) (Shun Kosaka [@shunkosa](https://github.com/shunkosa))
 
-  Still in alpha, but very promising approach to create documentation from your Flows as PDF, Word and JSON! 
+  Still in alpha, but very promising approach to create documentation from your Flows as PDF, Word (docx) and JSON! 
 
 - [sfdx-valkyrie](https://github.com/jonathanwiesel/sfdx-valkyrie) (Jonathan Wiesel [@jonathanwiesel](https://github.com/jonathanwiesel))
 
-Detect and report on lack of implementation of the bypassing pattern.
+  Detect and report on lack of implementation of the bypassing pattern.
 
-- [adp](https://github.com/americanexpress/sfdx-cli-plugin) maintained by American Express, various devops tools (e.g. to login into an org), run jars (includes talend jobs) 
+- [adp](https://github.com/americanexpress/sfdx-cli-plugin) (American Express)
+  
+  Various devops tools (e.g. to login into an org), run jars (includes talend jobs) 
 
-- [jayree](https://github.com/jayree/sfdx-jayree-plugin) Deploys changesets, updates state and country picklists and other helpful time-savers. 
+- [jayree](https://github.com/jayree/sfdx-jayree-plugin) 
+
+  Deploys changesets, updates state and country picklists and other helpful time-savers. 
 
 ## Not plugins, but useful
 
