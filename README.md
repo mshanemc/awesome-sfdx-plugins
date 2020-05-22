@@ -13,6 +13,12 @@ Also feel free to reorganize these as the list grows
 - [sfdx-core](https://github.com/forcedotcom/sfdx-core) auth, connections, and client-side tools for your plugins
 - [sfdx-plugin-generate](https://github.com/forcedotcom/sfdx-plugin-generate) sfdx-specific version of the oclif generate
 - [sfdx-command](https://github.com/forcedotcom/cli-packages) the thing we're all extending
+- [isvte](https://github.com/forcedotcom/isvte-sfdx-plugin) tools for ISVs from Salesforce's [ISV Technical Evangelism](https://medium.com/inside-the-salesforce-ecosystem/build-better-apps-for-your-customers-with-this-new-dx-plug-in-4877fa0fc305) team
+- [sfdx-scanner](https://github.com/forcedotcom/sfdx-scanner) runs quality and security checks (PMD) - does not replace Checkmarx for Partners
+- [sfdmu](https://github.com/forcedotcom/SFDX-Data-Move-Utility) Salesforce Data Move Utility - plugin and GUI
+- [sfdx-plugin-lwc-test](https://github.com/salesforce/sfdx-plugin-lwc-test) Helpful for setting up Jest Tests
+- [@salesforce/analytics](https://sfdc.co/adx_cli_help) commands for working with Salesforce Analytics apis
+- [dependency](https://github.com/forcedotcom/dependencies-cli) helps you leverage Dependency API
 
 ## Community supported plugins
 
@@ -38,9 +44,9 @@ Shared by people out of love, for the community. No guarantees.
 
   Convert csv to custom metadata
 
-- [texi-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon))
+- [texei-sfdx-plugin](https://github.com/texei/texei-sfdx-plugin) (folks from Texei, especially [@FabienTaillon](https://github.com/FabienTaillon))
 
-  Crawls package dependencies and automatically installs the prerequisites | update your user fields
+  Crawls package dependencies and automatically installs the prerequisites | update your user fields | enables SharedActivities in scratch orgs | and more
 
 - [ETCopyData](https://github.com/eltoroit/ETCopyData) ( Andres Perez [@eltoroit](https://github.com/eltoroit))
 
@@ -56,11 +62,57 @@ Shared by people out of love, for the community. No guarantees.
 
 - [sfdx-devhub-pool](https://github.com/stomita/sfdx-devhub-pool) (Shinichi Tomita [@stomita](https://github.com/stomita))
 
-  Generate scratch orgs without hitting daily limit by using multiple DevHub orgs as a pool 
-  
+  Generate scratch orgs without hitting daily limit by using multiple DevHub orgs as a pool
+
+- [sfdx-toolbox-package-utils](https://github.com/ImJohnMDaniel/sfdx-toolbox-package-utils) (John M. Daniel [@ImJohnMDaniel](https://github.com/ImJohnMDaniel))
+
+  Plugin devoted to better managing second generation package dependencies.  
+
 - [sfpowerkit](https://github.com/Accenture/sfpowerkit) (Accenture)
 
   Too many powerful things.Read the documentation on the git repo.
+
+- [soqlx-opener](https://github.com/ImJohnMDaniel/soqlx-opener) (John M. Daniel [@ImJohnMDaniel](https://github.com/ImJohnMDaniel))
+
+  For those SalesforceDevs that love [@Superfell](https://github.com/Superfell)'s [#SoqlXplorer](https://github.com/superfell/SoqlX), this plugin brings the power of SoqlX to DX Scratch orgs.
+
+- [sfdx-git-packager](https://github.com/ChuckJonas/sfdx-git-packager) (Charles Jonas [@ChuckJonas](https://github.com/ChuckJonas))
+
+  Generates Metadata packages from differences between git refs.
+
+- [JSON-Bourne-SFDX](https://github.com/realestate-com-au/json-bourne-sfdx-cli) (REA Group [@realestate-com-au](https://github.com/realestate-com-au))
+
+  Source control your org reference data, and treat it as metadata (make changes in scratch org, commit the changes to source control and "deploy" through CI).
+
+- [SFDX Essentials](https://github.com/nvuillam/sfdx-essentials) (Nicolas Vuillamy & contributors [@nvuillam](https://github.com/nvuillam))
+
+  Filter metadata folders according to a package.xml, generate automatically permission sets , check the consistency between a SFDX project sources and related package.xml file(s), change package dependencies versions and apiVersion, reorder package.xml file content, migrate SFDX sources from an object model to a new objects model, filter metadatas XML before deployment.
+
+- [Flowdoc](https://github.com/shunkosa/sfdx-flowdoc-plugin) (Shun Kosaka [@shunkosa](https://github.com/shunkosa))
+
+  Still in alpha, but very promising approach to create documentation from your Flows as PDF, Word (docx) and JSON! 
+
+- [sfdx-valkyrie](https://github.com/jonathanwiesel/sfdx-valkyrie) (Jonathan Wiesel [@jonathanwiesel](https://github.com/jonathanwiesel))
+
+  Detect and report on lack of implementation of the bypassing pattern.
+
+- [adp](https://github.com/americanexpress/sfdx-cli-plugin) (American Express)
+  
+  Various devops tools (e.g. to login into an org), run jars (includes talend jobs) 
+
+- [jayree](https://github.com/jayree/sfdx-jayree-plugin) 
+
+  Deploys changesets, updates state and country picklists and other helpful time-savers. 
+
+## Not plugins, but useful
+
+- [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
+
+  interactive generators for projects and scratch org features/settings
+
+- [yo-sfdx-commands-autocomplete](https://github.com/vyuvalv/yo-sfdx-commands-autocomplete) (Yuval Vardi) [](https://github.com/vyuvalv)
+
+  run commands interactively (autocomplete for sfdx commands and flags)
 
 ## Documentation
 
