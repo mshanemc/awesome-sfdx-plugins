@@ -14,6 +14,7 @@ Also feel free to reorganize these as the list grows
 - [sfdx-plugin-generate](https://github.com/forcedotcom/sfdx-plugin-generate) sfdx-specific version of the oclif generate
 - [sfdx-command](https://github.com/forcedotcom/cli-packages) the thing we're all extending
 - [isvte](https://github.com/forcedotcom/isvte-sfdx-plugin) tools for ISVs from Salesforce's [ISV Technical Evangelism](https://medium.com/inside-the-salesforce-ecosystem/build-better-apps-for-your-customers-with-this-new-dx-plug-in-4877fa0fc305) team
+- [@salesforce/analytics](https://sfdc.co/adx_cli_help) commands for working with Salesforce Analytics apis
 - [sfdx-scanner](https://github.com/forcedotcom/sfdx-scanner) runs quality and security checks (PMD) - does not replace Checkmarx for Partners
 - [sfdmu](https://github.com/forcedotcom/SFDX-Data-Move-Utility) Salesforce Data Move Utility - plugin and GUI
 - [sfdx-plugin-lwc-test](https://github.com/salesforce/sfdx-plugin-lwc-test) Helpful for setting up Jest Tests
