@@ -104,6 +104,10 @@ Shared by people out of love, for the community. No guarantees.
 
   Deploys changesets, updates state and country picklists and other helpful time-savers. 
 
+- [sedmockdata](https://github.com/msrivastav13/testdata) (Mohith Shrivastava, [@msrivastav13](https://github.com/msrivastav13))
+
+  A plugin for Salesforce DX CLI that provides ability to generate test data using mockaroo schema.You will need to sign up for the mockaroo API services and generate a schema.
+
 ## Not plugins, but useful
 
 - [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
