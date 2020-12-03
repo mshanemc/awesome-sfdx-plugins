@@ -110,6 +110,10 @@ Shared by people out of love, for the community. No guarantees.
 
     A plugin for Salesforce DX CLI that provides ability to generate test data using mockaroo schema.You will need to sign up for the mockaroo API services and generate a schema.
 
+-   [DXB](https://github.com/davidbrowaeys/DXB) (David Browaeys, [@davidbrowaeys](https://github.com/davidbrowaeys))
+
+    A set of cool commands that extend the salesforce cli such as delta deployment, scratch org creation, profile json conversion, optimize soql queries by running your query plan locally, transfer sample or ref data from one org to another using bulk api, search why user as access to a object or a field, clean permisson set. 
+
 ## Not plugins, but useful
 
 -   [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
