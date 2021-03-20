@@ -74,6 +74,10 @@ Shared by people out of love, for the community. No guarantees.
 
     Too many powerful things.Read the documentation on the git repo.
 
+-   [sfpowerscripts](https://github.com/Accenture/sfpowerscripts) (Accenture)
+  
+    A build system for package based development model using sfdx-project.json as source of truth.
+
 -   [soqlx-opener](https://github.com/ImJohnMDaniel/soqlx-opener) (John M. Daniel [@ImJohnMDaniel](https://github.com/ImJohnMDaniel))
 
     For those SalesforceDevs that love [@Superfell](https://github.com/Superfell)'s [#SoqlXplorer](https://github.com/superfell/SoqlX), this plugin brings the power of SoqlX to DX Scratch orgs.
