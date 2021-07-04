@@ -114,6 +114,10 @@ Shared by people out of love, for the community. No guarantees.
 
     A set of cool commands that extend the salesforce cli such as delta deployment, scratch org creation, profile json conversion, optimize soql queries by running your query plan locally, transfer sample or ref data from one org to another using bulk api, search why user as access to a object or a field, clean permisson set. 
 
+-   [sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis) ([Hardis Group](https://www.customer-platform.com/), [@hardisgroupcom](https://github.com/hardisgroupcom))
+
+    A lot of commands allowing to orchestrate sfdx commands and other sfdx plugins commands in order to easy the use of Git and Salesforce DX
+    
 ## Not plugins, but useful
 
 -   [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
@@ -123,6 +127,12 @@ Shared by people out of love, for the community. No guarantees.
 -   [yo-sfdx-commands-autocomplete](https://github.com/vyuvalv/yo-sfdx-commands-autocomplete) (Yuval Vardi) [](https://github.com/vyuvalv)
 
     run commands interactively (autocomplete for sfdx commands and flags)
+
+## IDE Plugins
+
+-   [vscode-sfdx-hardis](https://github.com/hardisgroupcom/vscode-sfdx-hardis) ([Hardis Group](https://www.customer-platform.com/), [@hardisgroupcom](https://github.com/hardisgroupcom))
+
+    [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) with a menu and UI integration allowing to use Git and Salesforce DX without knowing Git or Salesforce DX
 
 ## Documentation
 
