@@ -113,6 +113,10 @@ Shared by people out of love, for the community. No guarantees.
 -   [DXB](https://github.com/davidbrowaeys/DXB) (David Browaeys, [@davidbrowaeys](https://github.com/davidbrowaeys))
 
     A set of cool commands that extend the salesforce cli such as delta deployment, scratch org creation, profile json conversion, optimize soql queries by running your query plan locally, transfer sample or ref data from one org to another using bulk api, search why user as access to a object or a field, clean permisson set. 
+    
+-   [sfdx-ci-plugin](https://github.com/fransflippo/sfdx-ci-plugin) (Frans Flippo, [@fransflippo](https://github.com/fransflippo))
+
+    A plugin to create a connected app suitable for JWT authentication (`sfdx auth:jwt:grant`) with "one click". Especially useful for CI/CD which requires being able to non-interactively connect your org. The plugin takes care of creating the certificate and private key, creating and assigning permission sets, and creating the actual connected app. It even tells you exactly which `sfdx` command to include in your CI pipeline script to connect to the org. The plugin is agnostic of which CI/CD tool you happen to use.
 
 ## Not plugins, but useful
 
