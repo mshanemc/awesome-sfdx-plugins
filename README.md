@@ -118,6 +118,10 @@ Shared by people out of love, for the community. No guarantees.
 
     A plugin to create a connected app suitable for JWT authentication (`sfdx auth:jwt:grant`) with "one click". Especially useful for CI/CD which requires being able to non-interactively connect your org. The plugin takes care of creating the certificate and private key, creating and assigning permission sets, and creating the actual connected app. It even tells you exactly which `sfdx` command to include in your CI pipeline script to connect to the org. The plugin is agnostic of which CI/CD tool you happen to use.
 
+-   [sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis) ([Hardis Group](https://www.customer-platform.com/), [@hardisgroupcom](https://github.com/hardisgroupcom))
+
+    A lot of commands allowing to orchestrate sfdx commands and other sfdx plugins commands in order to easy the use of Git and Salesforce DX
+    
 ## Not plugins, but useful
 
 -   [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
@@ -127,6 +131,12 @@ Shared by people out of love, for the community. No guarantees.
 -   [yo-sfdx-commands-autocomplete](https://github.com/vyuvalv/yo-sfdx-commands-autocomplete) (Yuval Vardi) [](https://github.com/vyuvalv)
 
     run commands interactively (autocomplete for sfdx commands and flags)
+
+## IDE Plugins
+
+-   [vscode-sfdx-hardis](https://github.com/hardisgroupcom/vscode-sfdx-hardis) ([Hardis Group](https://www.customer-platform.com/), [@hardisgroupcom](https://github.com/hardisgroupcom))
+
+    [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) with a menu and UI integration allowing to use Git and Salesforce DX without knowing Git or Salesforce DX
 
 ## Documentation
 
