@@ -83,6 +83,10 @@ Shared by people out of love, for the community. No guarantees.
 
   Filter metadata folders according to a package.xml, generate automatically permission sets , check the consistency between a SFDX project sources and related package.xml file(s), change package dependencies versions and apiVersion, reorder package.xml file content, migrate SFDX sources from an object model to a new objects model, filter metadatas XML before deployment.
 
+- [sfdx-mohanc-plugins](https://www.npmjs.com/package/sfdx-mohanc-plugins) (Mohan Chinnappan, [@mohan-chinnappan-n](https://github.com/mohan-chinnappan-n))
+
+  Too many commands to even attempt to describe--just go read the README.
+
 ## Not plugins, but useful
 
 - [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
