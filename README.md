@@ -129,7 +129,10 @@ Shared by people out of love, for the community. No guarantees.
 -   [sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis) ([Hardis Group](https://www.customer-platform.com/), [@hardisgroupcom](https://github.com/hardisgroupcom))
 
     A lot of commands allowing to orchestrate sfdx commands and other sfdx plugins commands in order to easy the use of Git and Salesforce DX
-    
+
+-   [sfdx-deliverability-access](https://github.com/gfarb/sfdx-deliverability-access) ([@gfarb](https://github.com/gfarb))
+
+    Uses Selenium, Chromedriver and headless browsing to set Email Deliverability Access Level via command line (works in CI/CD flows)
 
 ## Not plugins, but useful
 
