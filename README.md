@@ -134,6 +134,10 @@ Shared by people out of love, for the community. No guarantees.
 
     Powerfull plugins to work with Salesforce Projects. Has commands to create packages from GIT differences (Between branches, commits, tags and more), merge several packages into one file by type among other options, list and describe metadata from your local project or connected org, compare metadata between two orgs or between your local project and the project org, check dependencies errors or repair it automatically, import and export data in tree format (including relationships) without salesforce limits, execute an apex anonymous script file iteratively an N selected times and other interesting tools (and future features). Designed to support devops and CI workflows. Work with source and Metadata API Formats and Support Aura Helper VSCode Extension. (Developed using Aura Helper NodeJS Framework).  
 
+-   [sfdx-deliverability-access](https://github.com/gfarb/sfdx-deliverability-access) ([@gfarb](https://github.com/gfarb))
+
+    Uses Selenium, Chromedriver and headless browsing to set Email Deliverability Access Level via command line (works in CI/CD flows)
+
 ## Not plugins, but useful
 
 -   [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
