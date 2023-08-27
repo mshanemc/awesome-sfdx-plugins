@@ -138,6 +138,12 @@ Shared by people out of love, for the community. No guarantees.
 
     Uses Selenium, Chromedriver and headless browsing to set Email Deliverability Access Level via command line (works in CI/CD flows)
 
+-   [move-qcp](https://github.com/PreziosiRaffaele/move-qcp) ([@PreziosiRaffaele](https://github.com/PreziosiRaffaele))
+
+    The Javascript Quote Calculator Plugin is useful to add extra functionality to the quote line editor in Salesforce CPQ.
+Unfortunately the code is stored as data within Salesforce, making it difficult to manage and track changes effectively.
+With this plugin, you can now create a dedicated QCP folder within your repository and effortlessly deploy it to the target org.
+
 ## Not plugins, but useful
 
 -   [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
