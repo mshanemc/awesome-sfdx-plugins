@@ -160,6 +160,10 @@ With this plugin, you can now create a dedicated QCP folder within your reposito
 
     [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) with a menu and UI integration allowing to use Git and Salesforce DX without knowing Git or Salesforce DX
 
+-   [SalesforceProductivityBurst](https://github.com/PreziosiRaffaele/SalesforceProductivityBurst) ([@PreziosiRaffaele](https://github.com/PreziosiRaffaele))
+    
+    [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=RaffaelePreziosi.apexgetcoverage) to quick opening metadata in SFDC from xml files. 
+
 ## Documentation
 
 -   [Oclif](https://oclif.io/)
