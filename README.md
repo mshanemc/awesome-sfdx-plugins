@@ -144,6 +144,14 @@ Shared by people out of love, for the community. No guarantees.
 Unfortunately the code is stored as data within Salesforce, making it difficult to manage and track changes effectively.
 With this plugin, you can now create a dedicated QCP folder within your repository and effortlessly deploy it to the target org.
 
+-   [kc-sf-plugin](https://github.com/k-capehart/kc-sf-plugin) ([@k-capehart](https://github.com/k-capehart))
+
+    Various commands including automatic generation of Apex Trigger frameworks. Create custom templates to quickly create standardized triggers, handler classes, test classes, and fields for a given Salesforce object. Also, display differences between source tracked org and local project.
+
+-   [lightning-flow-scanner](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx) ([Lightning Flow Scanner Group](https://github.com/Lightning-Flow-Scanner))
+
+    Pinpoint deviations from Industry Best Practices in Salesforce Flows, ensuring standards of business automation excellence. 
+
 ## Not plugins, but useful
 
 -   [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
