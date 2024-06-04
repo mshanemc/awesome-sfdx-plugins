@@ -144,7 +144,7 @@ Shared by people out of love, for the community. No guarantees.
 Unfortunately the code is stored as data within Salesforce, making it difficult to manage and track changes effectively.
 With this plugin, you can now create a dedicated QCP folder within your repository and effortlessly deploy it to the target org.
 
--   [kc-sf-plugin](https://github.com/k-capehart/kc-sf-plugin) ([@k-capehart](https://github.com/k-capehart))
+-   [kc-sf-plugin](https://github.com/k-capehart/kc-sf-plugin) (Kyle Capehart, [@k-capehart](https://github.com/k-capehart))
 
     Various commands including automatic generation of Apex Trigger frameworks. Create custom templates to quickly create standardized triggers, handler classes, test classes, and fields for a given Salesforce object. Also, display differences between source tracked org and local project.
 
