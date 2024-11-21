@@ -150,7 +150,11 @@ With this plugin, you can now create a dedicated QCP folder within your reposito
 
 -   [lightning-flow-scanner](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx) ([Lightning Flow Scanner Group](https://github.com/Lightning-Flow-Scanner))
 
-    Pinpoint deviations from Industry Best Practices in Salesforce Flows, ensuring standards of business automation excellence. 
+    Pinpoint deviations from Industry Best Practices in Salesforce Flows, ensuring standards of business automation excellence.
+
+-   [sfdx-git-delta]([https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx](https://github.com/scolladon/sfdx-git-delta)) ([@scolladon](https://github.com/scolladon))
+
+    SFDX plugin to generate Incremental Salesforce deployments manifests and artifacts.
 
 ## Not plugins, but useful
 
