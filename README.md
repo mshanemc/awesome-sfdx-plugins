@@ -162,7 +162,7 @@ With this plugin, you can now create a dedicated QCP folder within your reposito
 
 -   [apex-code-coverage-transformer](https://github.com/mcarvin8/apex-code-coverage-transformer) ([@mcarvin8](https://github.com/mcarvin8))
 
-    Plugin to create Apex code coverage files compatible with SonarQube.
+    Plugin to create Apex code coverage files in SonarQube or Cobertura format.
 
 -   [sf-package-combiner](https://github.com/mcarvin8/sf-package-combiner) ([@mcarvin8](https://github.com/mcarvin8))
 
