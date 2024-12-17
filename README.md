@@ -156,6 +156,22 @@ With this plugin, you can now create a dedicated QCP folder within your reposito
 
     SFDX plugin to generate Incremental Salesforce deployments manifests and artifacts.
 
+-   [sf-decomposer](https://github.com/mcarvin8/sf-decomposer) ([@mcarvin8](https://github.com/mcarvin8))
+
+    Plugin to create smaller metadata files for version control and recombine them for deployments.
+
+-   [apex-code-coverage-transformer](https://github.com/mcarvin8/apex-code-coverage-transformer) ([@mcarvin8](https://github.com/mcarvin8))
+
+    Plugin to create Apex code coverage files in SonarQube or Cobertura format.
+
+-   [sf-package-combiner](https://github.com/mcarvin8/sf-package-combiner) ([@mcarvin8](https://github.com/mcarvin8))
+
+    Plugin to combine multiple manifest files (package.xml) into 1 for deployments.
+
+-   [apex-tests-list](https://github.com/renatoliveira/apex-test-list) ([@renatoliveira](https://github.com/renatoliveira))
+
+    List Apex tests for your CI/CD pipeline.
+
 ## Not plugins, but useful
 
 -   [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
